@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "scheme": "com.edrickleong.smartbank",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.edrickleong.smartbank"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
+  }
+}
